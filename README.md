@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Challenge DIY : créons notre propre Redux !
 
 On a posé les bases pendant le cours, avec notre fonction `createStore`
@@ -189,6 +188,3 @@ Si tout va bien, au clic, le compteur s'incrémente. Magique ! :dizzy:
 Cf. le test 8 de l'exo d'aujourd'hui.
 
 * Créer un bouton Reset dans le composant `<Counter />`
-=======
-# redux-counter-malycia
->>>>>>> 0b9439d0f73c9097b46bc4ba780f4359db7a2d9b
